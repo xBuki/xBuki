@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Edson or Buki</h1>
+<h1 align="center">Hello 👋, I'm Edson or Buki</h1>
 - 🔭 I’m currently working on a project, (Waifugami)[https://discord.gg/waifugami]
 
 - 🌱 I’m currently learning **JS, HTML, CSS**
