@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a project with another developer here: [Waifugami/Discord](https://discord.gg/waifugami)
 
-- 🌱 Languages I am intermidate in:
+- 🌱 Languages and Tools I am intermidate in:
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="javascript logo"  />
 <img width="12" />
